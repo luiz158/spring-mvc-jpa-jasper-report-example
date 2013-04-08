@@ -109,6 +109,16 @@
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
+        
+        <!-- latest commons collections file updated for hibernate conflicts -->
+        
+        <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.1</version>
+            <type>jar</type>
+            <scope>compile</scope>
+        </dependency>
 
         <!-- View Dependencies -->
         <dependency>
